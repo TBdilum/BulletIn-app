@@ -1,6 +1,6 @@
 import React from 'react'
-import PostList from '../features/PostList'
-import AddPostForm from '../features/AddPostForm'
+import PostList from '../features/posts/PostList'
+import AddPostForm from '../features/posts/AddPostForm'
 
 function App() {
   return (
